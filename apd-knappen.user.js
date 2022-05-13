@@ -76,7 +76,8 @@
             triggerAngularInputField(inputMessage);
             triggerAngularInputField(inputFromDate);
             triggerAngularInputField(inputToDate);
-            triggerAngularInputField(buttonSubmit);
+            
+            // Submit the form
             buttonSubmit.click();
         }
     });
