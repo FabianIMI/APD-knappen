@@ -26,8 +26,8 @@
 // @name         APD-knappen
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Add convenience button to the frånvarotavla
-// @author       Fabiono den kulturelle
+// @description  Adds a convenience button to the frånvarotavla
+// @author       Fabian Gillholm
 // @match        http://franvarohlm.im.se/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=im.se
 // @grant        none
