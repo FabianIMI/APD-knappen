@@ -15,6 +15,10 @@ Adds a convenience button to the frånvarotavla
 3. A popup from GreaseMonkey will ask you if you want to install the script, so go ahead and accept it
 4. Edit the script constants with your name, preferred status and optional message
 
+## Configuration
+Edit the script by clicking the plugin (Tamper/Grease-Monkey) button in your browser and selecting the script for editing.
+Change your name under the SETTINGS section. You can change the other settings as well if you need to.
+
 Clicking the button should now create an absent-status
 
 ## License
