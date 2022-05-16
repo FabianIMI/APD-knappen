@@ -23,11 +23,11 @@ When pressed, the button publishes an APD status for the user with the current d
 4. Edit the script constants with your name, preferred status and optional message
 
 ## Configuration
-After installing, navigate to the Frånvarotavla in your browser.
-Edit the script by clicking the plugin (Tamper/Grease-Monkey) button and selecting the script for editing.
-Change your name under the SETTINGS section and save the changes. You can change the other settings as well if you need to.
+After installing, navigate to the Frånvarotavla in your browser.  
+Edit the script by clicking the plugin (Tamper/Grease-Monkey) button and selecting the script for editing.  
+Change your name under the SETTINGS section and save the changes. If needed you can also change the other settings.
 
-Clicking the button should now create an absent-status
+Refresh the Frånvarotavla. Clicking the button should now create a "working from home"-status.
 
 ## License
 
