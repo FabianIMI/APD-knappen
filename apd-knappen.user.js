@@ -38,9 +38,9 @@
     'use strict';
 
     // SETTINGS (change these)
-    let name = 'Your name here';
-    let status = 'APD';
-    let message = '';
+    let name = 'Your name here';    // Required - Must match your name as it is on the Frånvarotavla
+    let status = 'APD';             // Required - No need to change this
+    let message = '';               // Optional
 
     // CODE (don't change this)
     let newButton = $('<button/>',
