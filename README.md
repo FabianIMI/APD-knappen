@@ -1,5 +1,12 @@
 # APD-knappen
-Adds a convenience button to the frånvarotavla
+## Description
+Adds a convenience button to the Frånvarotavla:
+
+![The button](https://github.com/FabianIMI/APD-knappen/blob/main/knappen.png?raw=true)
+
+When pressed, the button publishes an APD status for the user with the current date:
+
+![Example](https://github.com/FabianIMI/APD-knappen/blob/main/exempel.png?raw=true)
 
 ## Installation
 
@@ -16,8 +23,9 @@ Adds a convenience button to the frånvarotavla
 4. Edit the script constants with your name, preferred status and optional message
 
 ## Configuration
-Edit the script by clicking the plugin (Tamper/Grease-Monkey) button in your browser and selecting the script for editing.
-Change your name under the SETTINGS section. You can change the other settings as well if you need to.
+After installing, navigate to the Frånvarotavla in your browser.
+Edit the script by clicking the plugin (Tamper/Grease-Monkey) button and selecting the script for editing.
+Change your name under the SETTINGS section and save the changes. You can change the other settings as well if you need to.
 
 Clicking the button should now create an absent-status
 
