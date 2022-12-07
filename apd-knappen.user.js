@@ -28,7 +28,7 @@
 // @version      0.1
 // @description  Adds a convenience button to the frånvarotavla
 // @author       Fabian Gillholm
-// @match        http://franvarohlm.im.se/
+// @match        http://franvarohlm.internal.im.se/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=im.se
 // @grant        none
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
